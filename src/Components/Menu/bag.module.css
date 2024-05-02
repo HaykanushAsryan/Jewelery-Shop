@@ -1,0 +1,60 @@
+.basket {
+    width: 100%;
+    /* height: 100vh; */
+    background-image: url("/public/Images/bagBackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #2F333A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.basket_section {
+    width: 60%;
+    height: 650px;
+    background-color: #2F333A;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.bag_item {
+    width: 100%;
+    height: 85px;
+    border: 1px solid #FFFFFF54;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.bin {
+    width: 30px;
+    height: 30px;
+    color: #B3B3B3;
+}
+
+.button {
+    width: 16px;
+    height: 16px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.belt_bag{
+    width: 60%;
+    height: 650px;
+    background-color: #2F333A;
+    border-radius: 10px;
+}
+.belt_basket{
+    width: 100%;
+    height: 85px;
+    border: 1px solid #FFFFFF54;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

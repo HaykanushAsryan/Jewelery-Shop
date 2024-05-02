@@ -1,0 +1,75 @@
+.accaunt {
+    width: 100%;
+    height: 100vh;
+    background-color: #2F333A;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.menu_bar {
+    width: 15%;
+    height: 704px;
+    background-color: #202226;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.category {
+    width: 70%;
+    height: 704px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.menu {
+    list-style: none;
+    font-size: 14px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.menu>li {
+    cursor: pointer;
+    margin: 3px;
+}
+
+.select_category {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid #000; */
+}
+
+.box {
+    width: 181px;
+    height: 60px;
+    border-radius: 5px;
+
+}
+
+.box>p {
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: Montserrat;
+}
+
+.container {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #000;
+}
+
+.openCategory {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    flex-wrap: wrap;
+}

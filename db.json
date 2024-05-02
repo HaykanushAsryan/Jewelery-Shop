@@ -1,0 +1,558 @@
+{
+  "Collection": [
+    {
+      "wishlist": true,
+      "id": 1,
+      "img": "Images/V.png",
+      "name": "Name Bracelet",
+      "price": 499,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": true,
+      "id": 2,
+      "img": "Images/W.png",
+      "name": "Name Bracelet",
+      "price": 299,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": true,
+      "id": 3,
+      "img": "Images/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": true,
+      "id": 4,
+      "img": "Images/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": false,
+      "id": 5,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": false,
+      "id": 6,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom",
+      "count": 0
+    }
+  ],
+  "Charms": [
+    {
+      "wishlist": false,
+      "id": 7,
+      "img": "Images/V.png",
+      "name": "Name Bracelet",
+      "price": 499,
+      "custom": "Custom",
+      "count": 0
+    },
+    {
+      "wishlist": false,
+      "id": 8,
+      "img": "Images/W.png",
+      "name": "Name Bracelet",
+      "price": 299,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": false,
+      "id": 9,
+      "img": "Images/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom",
+      "count": 0
+    },
+    {
+      "wishlist": false,
+      "id": 10,
+      "img": "Images/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom"
+    },
+    {
+      "wishlist": false,
+      "id": 11,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom",
+      "count": null
+    },
+    {
+      "wishlist": false,
+      "id": 12,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom"
+    }
+  ],
+  "Colors": [
+    {
+      "id": 1,
+      "img": "Images/Colors/blue.png",
+      "name": "Blue Mood",
+      "price": 200,
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "img": "Images/Colors/darkBrow.png",
+      "name": "Brown Mood",
+      "price": 200,
+      "color": "brown"
+    },
+    {
+      "id": 3,
+      "img": "Images/Colors/brown.png",
+      "name": "Brown Mood",
+      "price": 200,
+      "color": "burlywood"
+    },
+    {
+      "id": 4,
+      "img": "Images/Colors/white.png",
+      "name": "White Mood",
+      "price": 200,
+      "color": "wheat"
+    },
+    {
+      "id": 5,
+      "img": "Images/Colors/yellow.png",
+      "name": "Yellow Mood",
+      "price": 200,
+      "color": "yellow"
+    },
+    {
+      "id": 6,
+      "img": "Images/Colors/black.png",
+      "name": "Black Mood",
+      "price": 200,
+      "color": "black"
+    },
+    {
+      "id": 7,
+      "img": "Images/Colors/green.png",
+      "name": "Green Mood",
+      "price": 200,
+      "color": "green"
+    },
+    {
+      "id": 8,
+      "img": "Images/Colors/red.png",
+      "name": "Red Mood",
+      "price": 200,
+      "color": "red"
+    },
+    {
+      "id": 9,
+      "img": "Images/Colors/darkBrow.png",
+      "name": "Brown Mood",
+      "price": 200,
+      "color": "brown"
+    },
+    {
+      "id": 10,
+      "img": "Images/Colors/brown.png",
+      "name": "Yellow Mood",
+      "price": 200,
+      "color": "yellow"
+    },
+    {
+      "id": 11,
+      "img": "Images/Colors/white.png",
+      "name": "White Mood",
+      "price": 200,
+      "color": "white"
+    },
+    {
+      "id": 12,
+      "img": "Images/Colors/yellow.png",
+      "name": "Yellow Mood",
+      "price": 200,
+      "color": "yellow"
+    },
+    {
+      "id": 13,
+      "img": "Images/Colors/black.png",
+      "name": "Black Mood",
+      "price": 200,
+      "color": "grey"
+    },
+    {
+      "id": 14,
+      "img": "Images/Colors/green.png",
+      "name": "Green Mood",
+      "price": 200,
+      "color": "green"
+    }
+  ],
+  "Wishlist": [
+    {
+      "id": 1,
+      "img": "Images/V.png",
+      "name": "Name Bracelet",
+      "price": 499,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 11,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 12,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 6,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 5,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 2,
+      "img": "Images/W.png",
+      "name": "Name Bracelet",
+      "price": 299,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 3,
+      "img": "Images/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 4,
+      "img": "Images/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 9,
+      "img": "Images/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 8,
+      "img": "Images/W.png",
+      "name": "Name Bracelet",
+      "price": 299,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 7,
+      "img": "Images/V.png",
+      "name": "Name Bracelet",
+      "price": 499,
+      "custom": "Custom",
+      "wishlist": true
+    },
+    {
+      "id": 10,
+      "img": "Images/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom",
+      "wishlist": true
+    }
+  ],
+  "Bag": [
+    {
+      "id": 3,
+      "img": "Images/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "img": "Images/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom",
+      "count": 3
+    },
+    {
+      "id": 5,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom",
+      "count": 2
+    },
+    {
+      "id": 11,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom",
+      "count": 1
+    },
+    {
+      "id": 10,
+      "img": "Images/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom",
+      "count": 1
+    },
+    {
+      "id": 12,
+      "img": "Images/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom",
+      "count": 1
+    }
+  ],
+  "BeltBag": [
+    {
+      "id": 3,
+      "img": "Images/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom",
+      "count": 1
+    }
+  ],
+  "NewCollection": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/3x5gYQZC/V.png",
+      "name": "Name Bracelet",
+      "price": 499,
+      "custom": "Custom"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/nzBXdC6y/W.png",
+      "name": "Name Bracelet",
+      "price": 299,
+      "custom": "Custom"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/8kdFMfdW/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom"
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/fWtCqcZS/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom"
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/zBknyYL9/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom"
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/zBknyYL9/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom"
+    }
+  ],
+  "Bracelets": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/TPxjChST/blue.png",
+      "name": "Blue Mood",
+      "price": 200,
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/QdGcdHjc/darkBrow.png",
+      "name": "Brown Mood",
+      "price": 200,
+      "color": "brown"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/L5V7xr4s/brown.png",
+      "name": "Brown Mood",
+      "price": 200,
+      "color": "burlywood"
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/ncRSMKCN/white.png",
+      "name": "White Mood",
+      "price": 200,
+      "color": "wheat"
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/zGH7BsmR/yellow.png",
+      "name": "Yellow Mood",
+      "price": 200,
+      "color": "yellow"
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/MHpdtXnn/black.png",
+      "name": "Black Mood",
+      "price": 200,
+      "color": "black"
+    }
+  ],
+  "Necklace": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/RFxDDTk3/IMG-6037.jpg  ",
+      "name": "Eye",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/8CMyM67T/stainless-steel-om-necklace-men-1400x.webp",
+      "name": "Round Silver Necklace",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/KYZp2Y9f/058bacdf718d75b16bb08ed82e70a3cb.jpg",
+      "name": "Tiny Pearls",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/NFrp42Ms/6467bbb063c86a0018ccf754.webp",
+      "name": "Green Emerald",
+      "price": 200
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/t45QPwwr/i-shgcdn.webp",
+      "name": "Shiny Round Dimond",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/BZMmTsnP/preview-men-s-personalised-vertical-silver-bar-necklace.jpg",
+      "name": "Silver Bar Necklace",
+      "price": 200
+    }
+  ],
+  "Pendants": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/3x5gYQZC/V.png",
+      "name": "Pendant1",
+      "price": 499,
+      "custom": "Custom"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/nzBXdC6y/W.png",
+      "name": "Pendant2",
+      "price": 299,
+      "custom": "Custom"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/8kdFMfdW/X.png",
+      "name": "Pendant3",
+      "price": 399,
+      "custom": "Custom"
+    }
+  ],
+  "NewCharms": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/3x5gYQZC/V.png",
+      "name": "Name Bracelet",
+      "price": 499,
+      "custom": "Custom"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/nzBXdC6y/W.png",
+      "name": "Name Bracelet",
+      "price": 299,
+      "custom": "Custom"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/8kdFMfdW/X.png",
+      "name": "Name Bracelet",
+      "price": 399,
+      "custom": "Custom"
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/fWtCqcZS/cross.png",
+      "name": "Name Bracelet",
+      "price": 199,
+      "custom": "Custom"
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/zBknyYL9/U.png",
+      "name": "Name Bracelet",
+      "price": 599,
+      "custom": "Custom"
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/zBknyYL9/U.png",
+      "name": "Name Bracelet",
+      "price": 699,
+      "custom": "Custom"
+    }
+  ],
+  "For": []
+}
